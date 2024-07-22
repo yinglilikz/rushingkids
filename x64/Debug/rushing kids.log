@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\visual studio\项目\rushing kids\main.cpp(177,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\项目\rushing kids\main.cpp(165,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(173,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(199,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(219,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(237,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(404,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\visual studio\项目\rushing kids\main.cpp(476,66): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\visual studio\项目\rushing kids\main.cpp(587,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(693,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\visual studio\项目\rushing kids\main.cpp(888,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rushing kids.vcxproj -> D:\visual studio\项目\rushing kids\x64\Debug\rushing kids.exe
